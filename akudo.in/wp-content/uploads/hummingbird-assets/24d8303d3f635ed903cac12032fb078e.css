@@ -1,0 +1,80 @@
+/**handles:elementor-post-3776**/
+.elementor-3776 .elementor-element.elementor-element-2d12023 {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 5% 0 10% 0;
+}
+.elementor-3776
+  .elementor-element.elementor-element-2d12023
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-3776
+  .elementor-element.elementor-element-d76ce3a
+  > .elementor-widget-wrap
+  > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+  margin-bottom: 0;
+}
+.elementor-3776
+  .elementor-element.elementor-element-d76ce3a
+  > .elementor-element-populated {
+  margin: 0;
+  --e-column-margin-right: 0px;
+  --e-column-margin-left: 0px;
+  padding: 0 10px 0 10px;
+}
+.elementor-3776 .elementor-element.elementor-element-29b4bce {
+  text-align: center;
+}
+.elementor-3776
+  .elementor-element.elementor-element-29b4bce
+  .elementor-heading-title {
+  color: #131313;
+  font-family: Poppins, Sans-serif;
+  font-size: 19px;
+  font-weight: 600;
+}
+.elementor-3776
+  .elementor-element.elementor-element-29b4bce
+  > .elementor-widget-container {
+  margin: -8px 0 0 0;
+}
+#elementor-popup-modal-3776 .dialog-message {
+  width: 290px;
+  height: auto;
+}
+#elementor-popup-modal-3776 {
+  justify-content: center;
+  align-items: center;
+  pointer-events: all;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+#elementor-popup-modal-3776 .dialog-close-button {
+  display: flex;
+  top: 0;
+  background-color: #000;
+  font-size: 30px;
+}
+#elementor-popup-modal-3776 .dialog-widget-content {
+  animation-duration: 0.6s;
+  border-radius: 32px 32px 32px 32px;
+  box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+body:not(.rtl) #elementor-popup-modal-3776 .dialog-close-button {
+  right: 0;
+}
+body.rtl #elementor-popup-modal-3776 .dialog-close-button {
+  left: 0;
+}
+#elementor-popup-modal-3776 .dialog-close-button i {
+  color: #fff;
+}
+#elementor-popup-modal-3776 .dialog-close-button svg {
+  fill: #ffffff;
+}
+#elementor-popup-modal-3776 .dialog-close-button {
+  display: flex;
+  right: -5% !important;
+  top: -20px;
+  padding: 10px;
+  border-radius: 40px;
+}

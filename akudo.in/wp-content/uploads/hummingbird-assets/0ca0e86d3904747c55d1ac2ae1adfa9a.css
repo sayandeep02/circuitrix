@@ -1,0 +1,44 @@
+/**handles:elementor-post-1525**/
+.elementor-1525
+  .elementor-element.elementor-element-4857f0e1:not(.elementor-motion-effects-element-type-background),
+.elementor-1525
+  .elementor-element.elementor-element-4857f0e1
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #0a0a0a;
+}
+.elementor-1525 .elementor-element.elementor-element-4857f0e1 {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 3% 0 3% 0;
+  z-index: 1000;
+}
+.elementor-1525
+  .elementor-element.elementor-element-4857f0e1
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-1525
+  .elementor-element.elementor-element-44c47498
+  > .elementor-element-populated {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  margin: 14% 0 0 0;
+  --e-column-margin-right: 0%;
+  --e-column-margin-left: 0%;
+}
+.elementor-1525
+  .elementor-element.elementor-element-44c47498
+  > .elementor-element-populated
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-1525 .elementor-element.elementor-element-5ad96a5 {
+  z-index: 1000;
+}
+:root {
+  --page-title-display: none;
+}
+@media (max-width: 767px) {
+  .elementor-1525 .elementor-element.elementor-element-5ad96a5 img {
+    width: 52%;
+  }
+}

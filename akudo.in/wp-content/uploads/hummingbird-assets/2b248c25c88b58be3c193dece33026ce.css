@@ -1,0 +1,41 @@
+/**handles:elementor-post-1664**/
+.elementor-1664
+  .elementor-element.elementor-element-386c136:not(.elementor-motion-effects-element-type-background),
+.elementor-1664
+  .elementor-element.elementor-element-386c136
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #0a0a0a;
+}
+.elementor-1664 .elementor-element.elementor-element-386c136 {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 3% 0 3% 0;
+  z-index: 1000;
+}
+.elementor-1664
+  .elementor-element.elementor-element-386c136
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-1664
+  .elementor-element.elementor-element-9934027
+  > .elementor-element-populated {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  margin: 14% 0 0 0;
+  --e-column-margin-right: 0%;
+  --e-column-margin-left: 0%;
+}
+.elementor-1664
+  .elementor-element.elementor-element-9934027
+  > .elementor-element-populated
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-1664 .elementor-element.elementor-element-d5de50e {
+  z-index: 1000;
+}
+@media (max-width: 767px) {
+  .elementor-1664 .elementor-element.elementor-element-d5de50e img {
+    width: 52%;
+  }
+}
